@@ -1,0 +1,51 @@
+
+#container{
+    margin: 10px 150px;
+}
+
+.marco{
+    width : 90%;
+    height: 220px;
+    border-radius: 50px;
+}
+
+.titulo{
+    text-align: center;
+    background-color: greenyellow;
+    border-radius: 5px;
+    margin: 10px 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.localidad{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    margin-right: 80%;
+    font-family: monospace;
+}
+
+.boton{
+    background-color: orangered;
+    font-family: monospace;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.divBoleta{
+    text-align: center;
+    background-color: orange;
+    border-radius: 30px;
+    margin: 10px 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: solid 1px black;
+}
+
+.formularioTrabajo{
+    text-align: center;
+    background-color: whitesmoke;
+    border: solid 1px black;
+    border-radius: 5px;
+    margin: 10px 50px;
+}
